@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GridTableLayout</string>
+    <string name="text_settings">Settings</string>
+    <string name="text_profile">Profile</string>
+    <string name="text_favorites">Favorites</string>
+    <string name="text_income">Income</string>
+    <string name="text_budget">Budget</string>
+    <string name="text_expenses">expenses</string>
+</resources>
