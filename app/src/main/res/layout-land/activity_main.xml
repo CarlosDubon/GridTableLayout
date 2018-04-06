@@ -176,7 +176,7 @@
             android:id="@+id/expenses"
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:src="@drawable/ic_settings_black_24dp"
+            android:src="@drawable/ic_icons8_coins_26"
             android:adjustViewBounds="true"
             android:tint="@color/colorA6"
             android:layout_weight="10"
